@@ -1,5 +1,5 @@
 {
-  "name": "solucion-apis",
+  "name": "tareas-supabase",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,10 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "firebase": "^11.1.0",
     "next": "15.1.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "solucion-apis": "file:"
+    "tareas-supabase": "file:"
   }
 }
